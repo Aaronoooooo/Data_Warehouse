@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c91a3d8-f9a5-452e-bb76-e4662f612770" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/dw-mocker/target/" />
+    <ignored path="$PROJECT_DIR$/dw-logger/target/" />
+    <ignored path="$PROJECT_DIR$/dw-common/target/" />
+    <ignored path="$PROJECT_DIR$/dw-flume-interceptor/target/" />
+    <ignored path="$PROJECT_DIR$/dw-realtime/target/" />
+    <ignored path="$PROJECT_DIR$/dw-publisher/target/" />
+    <ignored path="D:/30_电商数据仓库管理/day09_key/code2/gmall0901-canal/target/" />
+    <ignored path="$PROJECT_DIR$/dw-chart/target/" />
+    <ignored path="$PROJECT_DIR$/dw-canal/target/" />
+    <ignored path="$PROJECT_DIR$/dw2es/target/" />
+    <ignored path="$PROJECT_DIR$/dw-2es/target/" />
+    <ignored path="$PROJECT_DIR$/dw-dict/target/" />
+    <ignored path="$PROJECT_DIR$/dw-dictt/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SortBy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/java/com/apache/gmall/dw/test/SortBy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/java/com/apache/gmall/dw/test/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NewOrderApp.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/app/NewOrderApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="14" column="67" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartupApp.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/app/StartupApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CanalClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dw-canal/src/main/java/com/apache/gmall/dwcanal/client/CanalClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImportEsApp.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dw-2es/src/main/scala/com/apache/gmall/dw2es/app/ImportEsApp.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="15" column="111" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="111" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderInfo.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/bean/OrderInfo.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PublishController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/controller/PublishController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2682">
+              <caret line="162" column="31" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RanOpt</find>
+      <find>2019</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>RandomOpt</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/dw-mocker/src/main/java/com/apache/gmall/dw/mock/JsonMocker.java" />
+        <option value="$PROJECT_DIR$/dw-logger/src/main/java/com/apache/gmall/dwlogger/LoggerControlle.java" />
+        <option value="$PROJECT_DIR$/dw-mocker/src/main/java/com/apache/gmall/dw/mock/sender/LogUploader.java" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/app/MyKafkaUtil.scala" />
+        <option value="$PROJECT_DIR$/dw-realtime/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/util/RedisUtil.scala" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/util/PropertiesUtil.scala" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/util/MyKafkaUtil.scala" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/bean/StartupLog.scala" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/app/StartupApp.scala" />
+        <option value="$PROJECT_DIR$/dw-publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/service/impl/PublishServicelmpl.java" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/service/PublishServiceImpi.java" />
+        <option value="$PROJECT_DIR$/dw-logger/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-common/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-canal/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-common/src/main/java/com/apache/gmall/dwcommon/util/MyKafkaSend.java" />
+        <option value="$PROJECT_DIR$/dw-common/src/main/java/com/apache/gmall/dwcommon/util/MyKafkaSender.java" />
+        <option value="$PROJECT_DIR$/dw-common/src/main/java/com/apache/gmall/dwcommon/constant/GmallConstant.java" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/service/PublishServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/bean/OrderInfo.scala" />
+        <option value="$PROJECT_DIR$/dw-canal/src/main/java/com/apache/gmall/dwcanal/client/CanalClient.java" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/java/com/apache/gmall/dw/test/SortBy.java" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/app/NewOrderApp.scala" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/service/PublishService.java" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/service/impl/PublishServiceImpl.java" />
+        <option value="$PROJECT_DIR$/dw2es/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-2es/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-2es/src/main/scala/com/apache/gmall/dw2es/bean/SaleDetailDaycount.scala" />
+        <option value="$PROJECT_DIR$/dw-2es/src/main/scala/com/apache/gmall/dw2es/app/ImportEsApp.scala" />
+        <option value="$PROJECT_DIR$/dw-common/src/main/scala/com/apache/gmall/dwcommon/util/MyEsUtil.scala" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/bean/Opretion.java" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/bean/Option.java" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/bean/Stat.java" />
+        <option value="$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/controller/PublishController.java" />
+        <option value="$PROJECT_DIR$/dw-dict/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dw-dictt/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-dictt/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/dw-dictt/src/main/java/com/apache/dwdictt/controller/DictController.java" />
+        <option value="$PROJECT_DIR$/dw-dict/src/main/java/com/apache/gmall/dw/dict/DictApplication.java" />
+        <option value="$PROJECT_DIR$/dw-dict/src/main/java/com/apache/gmall/dw/dict/controller/DictController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-dict/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-chart/pom.xml" />
+        <option value="$PROJECT_DIR$/dw-chart/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/utils/HttpClientUtil.java" />
+        <option value="$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/utils/GetDate.java" />
+        <option value="$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/dw-realtime/src/main/java/com/apache/gmall/dw/test/QuickSort.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Personal Program\RepMaven" />
+        <option name="mavenHome" value="C:/Personal Program/apache-maven-3.2.2" />
+        <option name="userSettingsFile" value="C:\Personal Program\apache-maven-3.2.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="298" />
+    <option name="y" value="467" />
+    <option name="width" value="1309" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-2es" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-2es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-2es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-2es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-2es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-2es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="dw2es" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-2es" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="dw2es" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-dict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-dict" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-dict" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-dict" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-dict" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-dict" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-realtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gmall-dw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall-dw" type="462c0819:PsiDirectoryNode" />
+              <item name="dw-realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dw-2es" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MyWork\gmall-dw\dw-chart\src\main\resources\config" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.apache.gmall.dwcommon.util" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.apache.gmall.dw.realtime.util" />
+      <recent name="com.apache.gmall.dw.mock.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MyWork\gmall-dw\dw-dict\src\main\java\com\apache\gmall\dw\dict\controller" />
+      <recent name="C:\MyWork\gmall-dw\dw-2es\src\main\resources" />
+      <recent name="C:\MyWork\gmall-dw\dw-publisher\src\main\resources" />
+      <recent name="C:\MyWork\gmall-dw\dw-realtime\src\main\resources" />
+      <recent name="C:\MyWork\gmall-dw\dw-realtime\src\main\scala\com\apache\gmall\dw\realtime" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DwChartApplication">
+    <configuration name="ImportEsApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.apache.gmall.dw2es.app.ImportEsApp" />
+      <module name="dw-2es" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.gmall.dw2es.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="NewOrderApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.apache.gmall.dw.realtime.app.NewOrderApp" />
+      <module name="dw-realtime" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.gmall.dw.realtime.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="dw-logger" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="DictApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dw-dict" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.gmall.dw.dict.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apache.gmall.dw.dict.DictApplication" />
+    </configuration>
+    <configuration name="DwChartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dw-chart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.dwchart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apache.dwchart.DwChartApplication" />
+    </configuration>
+    <configuration name="DwDicttApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dw-dictt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apache.dwdictt.DwDicttApplication" />
+    </configuration>
+    <configuration name="DwLoggerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dw-logger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apache.gmall.dwlogger.DwLoggerApplication" />
+    </configuration>
+    <configuration name="PublisherApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dw-publisher" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apache.gmall.dw.publisher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apache.gmall.dw.publisher.PublisherApplication" />
+    </configuration>
+    <configuration name="PublisherApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dw-publisher" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apache.publisher.PublisherApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.DwLoggerApplication" />
+      <item itemvalue="Spring Boot.PublisherApplication" />
+      <item itemvalue="Spring Boot.DwDicttApplication" />
+      <item itemvalue="Spring Boot.PublisherApplication (1)" />
+      <item itemvalue="Application.ImportEsApp" />
+      <item itemvalue="Spring Boot.DictApplication" />
+      <item itemvalue="Spring Boot.DwChartApplication" />
+      <item itemvalue="Application.NewOrderApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.DwChartApplication" />
+        <item itemvalue="Application.NewOrderApp" />
+        <item itemvalue="Spring Boot.PublisherApplication (1)" />
+        <item itemvalue="Spring Boot.DictApplication" />
+        <item itemvalue="Application.ImportEsApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c91a3d8-f9a5-452e-bb76-e4662f612770" name="Default" comment="" />
+      <created>1550803106853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550803106853</updated>
+      <workItem from="1550803114412" duration="1795000" />
+      <workItem from="1550814780300" duration="3045000" />
+      <workItem from="1550820141536" duration="5158000" />
+      <workItem from="1550828147017" duration="7480000" />
+      <workItem from="1550880894536" duration="5318000" />
+      <workItem from="1550992624300" duration="6681000" />
+      <workItem from="1551052742740" duration="4970000" />
+      <workItem from="1551182262248" duration="4341000" />
+      <workItem from="1551225598783" duration="1579000" />
+      <workItem from="1551338311472" duration="614000" />
+      <workItem from="1551341786455" duration="880000" />
+      <workItem from="1551595222671" duration="4000" />
+      <workItem from="1551606753156" duration="4000" />
+      <workItem from="1551667538114" duration="742000" />
+      <workItem from="1551695420459" duration="599000" />
+      <workItem from="1551699451287" duration="2460000" />
+      <workItem from="1551702020537" duration="9461000" />
+      <workItem from="1551712729935" duration="1409000" />
+      <workItem from="1551743633114" duration="5323000" />
+      <workItem from="1551830521962" duration="1500000" />
+      <workItem from="1551832057503" duration="4794000" />
+      <workItem from="1551851953267" duration="15997000" />
+      <workItem from="1551917433708" duration="18474000" />
+      <workItem from="1552026488949" duration="20956000" />
+      <workItem from="1552091973754" duration="8495000" />
+      <workItem from="1552110524953" duration="3365000" />
+      <workItem from="1552113910726" duration="2563000" />
+      <workItem from="1552198826401" duration="629000" />
+      <workItem from="1552200291413" duration="12000" />
+      <workItem from="1552360664815" duration="4383000" />
+      <workItem from="1552440988819" duration="59000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143090000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="239" y="374" width="1047" height="880" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.44772118" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32937062" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32791328" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36049724" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24974722" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24953446" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.425" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.24953446" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.46909398" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38362068" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32942238" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.425" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dw-2es/src/main/scala/com/apache/gmall/dw2es/App.scala" />
+    <entry file="file://$PROJECT_DIR$/dw-common/src/main/java/com/apache/gmall/dwcommon/constant/GmallConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-2es/src/main/resources/hive-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Personal Program/jdk1.8.0_131/src.zip!/java/io/Closeable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/searchbox/jest-common/6.3.1/jest-common-6.3.1.jar!/io/searchbox/client/JestClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Personal Program/jdk1.8.0_131/src.zip!/java/lang/AutoCloseable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="50" column="30" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/searchbox/jest/6.3.1/jest-6.3.1.jar!/io/searchbox/client/http/JestHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3474">
+          <caret line="245" column="47" selection-start-line="245" selection-start-column="47" selection-end-line="245" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/searchbox/jest/6.3.1/jest-6.3.1.jar!/io/searchbox/client/JestClientFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/service/PublishService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="108" selection-start-line="13" selection-start-column="108" selection-end-line="13" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-2es/src/main/scala/com/apache/gmall/dw2es/bean/SaleDetailDaycount.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-common/src/main/scala/com/apache/gmall/dwcommon/util/MyEsUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/service/impl/PublishServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-28">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/bean/Option.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/bean/Stat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-logger/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-dict/src/main/java/com/apache/gmall/dw/dict/controller/app/A.java" />
+    <entry file="file://$PROJECT_DIR$/dw-dict/src/main/java/com/apache/gmall/dw/dict/co/A.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.27/tomcat-embed-core-8.5.27.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-logger/src/main/java/com/apache/gmall/dwlogger/LoggerControlle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-dict/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-dictt/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/dw-dictt/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/dw-logger/src/main/java/com/apache/gmall/dwlogger/DwLoggerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-dictt/src/main/java/com/apache/dwdictt/controller/DictController.java" />
+    <entry file="file://C:/Personal Program/apache-maven-3.2.2/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-publisher/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-dict/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-dict/src/main/java/com/apache/gmall/dw/dict/DictApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-dict/src/main/java/com/apache/gmall/dw/dict/controller/DictController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-logger/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/utils.java" />
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/utils/GetDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.14.RELEASE/spring-context-4.3.14.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/DwChartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/utils/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="84" column="80" selection-start-line="76" selection-start-column="37" selection-end-line="84" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/java/com/apache/dwchart/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="104" column="60" selection-start-line="104" selection-start-column="48" selection-end-line="104" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-chart/src/main/resources/config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="47" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-2es/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/java/com/apache/gmall/dw/test/SortBy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/java/com/apache/gmall/dw/test/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-publisher/src/main/java/com/apache/gmall/dw/publisher/controller/PublishController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2682">
+          <caret line="162" column="31" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/bean/OrderInfo.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/app/NewOrderApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="67" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-realtime/src/main/scala/com/apache/gmall/dw/realtime/app/StartupApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-canal/src/main/java/com/apache/gmall/dwcanal/client/CanalClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dw-2es/src/main/scala/com/apache/gmall/dw2es/app/ImportEsApp.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="111" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dw-2es</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.2.47</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

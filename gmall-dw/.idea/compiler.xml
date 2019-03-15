@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dw-2es" />
+        <module name="dw-canal" />
+        <module name="dw-chart" />
+        <module name="dw-common" />
+        <module name="dw-dict" />
+        <module name="dw-dictt" />
+        <module name="dw-flume-interceptor" />
+        <module name="dw-logger" />
+        <module name="dw-mocker" />
+        <module name="dw-publisher" />
+        <module name="dw-realtime" />
+        <module name="dw2es" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dw-dictt" target="1.8" />
+      <module name="dw2es" target="1.8" />
+      <module name="gmall0901-canal" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
